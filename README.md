@@ -25,11 +25,11 @@ the connections look like this :
   - upload it to your Arduino board and turn it on
   - go to the server and run it
   - if everything is working well the connection sequence will start which is the following
-     1-light blinking blue -> looking for the HotSpot
-     2-static green for 5 seconds -> WiFI connection established
-     3-no light -> trying to connect to the server
-     4-green light ->done with WiFI/Server connection sensor is working and active
-     *whenever the connection is lost the sequence will repeat
+    1-light blinking blue -> looking for the HotSpot
+    2-static green for 5 seconds -> WiFI connection established
+    3-no light -> trying to connect to the server
+    4-green light ->done with WiFI/Server connection sensor is working and active
+    *whenever the connection is lost the sequence will repeat
   - 
 
 
