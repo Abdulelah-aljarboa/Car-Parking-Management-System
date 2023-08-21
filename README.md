@@ -6,7 +6,8 @@ the microcontroller and ultrasonic sensor
 the connections look like this :
 ![Screenshot 2023-08-21 084225](https://github.com/Abdulelah-aljarboa/Car-Parking-Management-System/assets/105386716/6e11ee87-f0cf-488c-8d2f-215a30492375)
 
-
+Here is the Presentation for the project:
+https://www.youtube.com/watch?v=8D48waSgIdA
 
 # Technologies 🧠
   we used the following for this project:
