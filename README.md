@@ -20,7 +20,7 @@ the connections look like this :
   - Edit lines 5-8 with the following
   - SSID -->  your wifi name
   - Password --> the wifi password
-  - port --> is set to 28002 you could change it if you want(change in the server also)
+  - port --> is set to 28002 you could change it if you want(change in the server also) 
   - host --> the server IP address (the IP of the computer running the server)
   - upload it to your Arduino board and turn it on
   - go to the server and run it
