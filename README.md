@@ -1,5 +1,5 @@
 # Car-Parking-Management-System
-in this Project, we built a car management system using Java socket programming
+in this Project, we built a car parking management system using Java socket programming
 and Arduino microcontroller programmed using a C/C++ like language specific for
 the microcontroller and ultrasonic sensor
 
