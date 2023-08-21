@@ -16,7 +16,20 @@ the connections look like this :
   
   
   # SetUp⚙️
-  - Download the sensor file and upload it to the board using Arduino application
+  - Download the sensor file
+  - Edit lines 5-8 with the following
+  - SSID -->  your wifi name
+  - Password --> the wifi password
+  - port --> is set to 28002 you could change it if you want(change in the server also)
+  - host --> the server IP address (the IP of the computer running the server)
+  - upload it to your Arduino board and turn it on
+  - go to the server and run it
+  - if everything is working well the connection sequence will start which is the following
+     1-light blinking blue -> looking for the HotSpot
+     2-static green for 5 seconds -> WiFI connection established
+     3-no light -> trying to connect to the server
+     4-green light ->done with WiFI/Server connection sensor is working and active
+     *whenever the connection is lost the sequence will repeat
   - 
 
 
