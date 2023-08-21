@@ -31,6 +31,5 @@ the connections look like this :
     4. green light ->done with WiFI/Server connection sensor is working and active
     5. whenever the connection is lost the sequence will repeat
     
-  - 
 
 
