@@ -4,7 +4,8 @@ and Arduino microcontroller programmed using a C/C++ like language specific for
 the microcontroller and ultrasonic sensor
 
 the system looks like this :
-![Screenshot 2023-08-21 084225](https://github.com/Abdulelah-aljarboa/Car-Parking-Management-System/assets/105386716/212fdaa7-2f83-47e4-9ed7-b20ff681bcec)
+![Screenshot 2023-08-21 084225](https://github.com/Abdulelah-aljarboa/Car-Parking-Management-System/assets/105386716/6e11ee87-f0cf-488c-8d2f-215a30492375)
+
 
 
 # Technologies 🧠
